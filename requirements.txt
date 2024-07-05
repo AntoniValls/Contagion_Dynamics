@@ -1,0 +1,9 @@
+numpy
+matplotlib
+jupyterlab
+jupytext
+pandas
+backbone_network
+python-louvain
+tqdm
+
